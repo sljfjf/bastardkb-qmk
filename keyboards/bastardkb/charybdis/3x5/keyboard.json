@@ -17,7 +17,7 @@
     },
     "diode_direction": "ROW2COL",
     "split": {
-        "soft_serial_pin": "GP1",
+        "soft_serial_pin": "GP13",
         "bootmagic": {
             "matrix": [4, 0]
         }
